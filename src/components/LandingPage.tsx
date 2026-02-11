@@ -157,7 +157,7 @@ export default function LandingPage({ onNext }: LandingPageProps) {
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-center mb-6">
             <img
-              src="/Edstellar logo_Primary-01 2 (1).png"
+              src="/edstellar-logo.png"
               alt="Edstellar Logo"
               className="h-12 object-contain brightness-0 invert"
             />
